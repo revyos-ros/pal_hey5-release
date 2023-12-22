@@ -2,6 +2,9 @@
 Changelog for package pal_hey5
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+4.0.1 (2023-12-18)
+------------------
+
 4.0.0 (2023-12-15)
 ------------------
 * removing test dependencies && unneeded compiling options
