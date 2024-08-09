@@ -2,6 +2,11 @@
 Changelog for package pal_hey5_controller_configuration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+4.2.0 (2024-08-07)
+------------------
+* Use controller_type from the controllers config
+* Contributors: Noel Jimenez
+
 4.1.0 (2024-01-18)
 ------------------
 * Merge branch 'tiago-dual-ros2' into 'humble-devel'
