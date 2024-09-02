@@ -1,0 +1,152 @@
+ros-humble-pal-hey5-controller-configuration (4.2.0-1bookworm) bookworm; urgency=high
+
+  * Use controller_type from the controllers config
+  * Contributors: Noel Jimenez
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Tue, 06 Aug 2024 16:00:00 -0000
+
+ros-humble-pal-hey5-controller-configuration (4.1.0-1bookworm) bookworm; urgency=high
+
+  * Merge branch 'tiago-dual-ros2' into 'humble-devel'
+    Add parametric yaml file and end_effector side for tiago dual
+    See merge request robots/pal_hey5!4
+  * Update variable name of gripper_prefix
+  * fix typo
+  * Change to ee_suffix
+  * Add parametric yaml file and gripper side for tiago dual
+  * Contributors: David ter Kuile, davidterkuile
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Wed, 17 Jan 2024 16:00:00 -0000
+
+ros-humble-pal-hey5-controller-configuration (4.0.1-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Sun, 17 Dec 2023 16:00:00 -0000
+
+ros-humble-pal-hey5-controller-configuration (4.0.0-1bookworm) bookworm; urgency=high
+
+  * rename pal_hey_controllers.yaml into pal_hey_controller.yaml
+  * creating the pal_hey5_controller_configuration package
+  * Contributors: Aina Irisarri
+  * rename pal_hey_controllers.yaml into pal_hey_controller.yaml
+  * creating the pal_hey5_controller_configuration package
+  * Contributors: Aina Irisarri
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Thu, 14 Dec 2023 16:00:00 -0000
+
+ros-humble-pal-hey5-controller-configuration (3.0.4-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Mon, 13 Nov 2023 16:00:00 -0000
+
+ros-humble-pal-hey5-controller-configuration (3.0.3-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Mon, 26 Jun 2023 16:00:00 -0000
+
+ros-humble-pal-hey5-controller-configuration (3.0.2-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Mon, 28 Nov 2022 16:00:00 -0000
+
+ros-humble-pal-hey5-controller-configuration (3.0.1-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Wed, 02 Nov 2022 16:00:00 -0000
+
+ros-humble-pal-hey5-controller-configuration (3.0.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Tue, 25 Oct 2022 16:00:00 -0000
+
+ros-humble-pal-hey5-controller-configuration (1.0.3-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Sun, 14 Apr 2019 16:00:00 -0000
+
+ros-humble-pal-hey5-controller-configuration (1.0.2-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Thu, 12 Apr 2018 16:00:00 -0000
+
+ros-humble-pal-hey5-controller-configuration (1.0.1-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Sun, 14 Jan 2018 16:00:00 -0000
+
+ros-humble-pal-hey5-controller-configuration (1.0.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Thu, 01 Sep 2016 08:53:16 +0800
+
+ros-humble-pal-hey5-controller-configuration (0.1.3-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Sun, 24 Apr 2016 16:00:00 -0000
+
+ros-humble-pal-hey5-controller-configuration (0.1.2-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Fri, 12 Jun 2015 08:52:00 -0000
+
+ros-humble-pal-hey5-controller-configuration (0.1.1-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Fri, 12 Jun 2015 08:29:00 -0000
+
+ros-humble-pal-hey5-controller-configuration (0.1.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Tue, 21 Apr 2015 16:00:00 -0000
+
+ros-humble-pal-hey5-controller-configuration (0.0.6-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Wed, 14 Jan 2015 16:00:00 -0000
+
+ros-humble-pal-hey5-controller-configuration (0.0.5-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Mon, 22 Dec 2014 16:00:00 -0000
+
+ros-humble-pal-hey5-controller-configuration (0.0.4-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Thu, 11 Dec 2014 16:00:00 -0000
+
+ros-humble-pal-hey5-controller-configuration (0.0.3-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Thu, 13 Nov 2014 02:50:00 -0000
+
+ros-humble-pal-hey5-controller-configuration (0.0.2-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Thu, 13 Nov 2014 01:29:00 -0000
+
+ros-humble-pal-hey5-controller-configuration (0.0.1-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Tue, 04 Nov 2014 16:00:00 -0000
+
+
